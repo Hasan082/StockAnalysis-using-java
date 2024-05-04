@@ -1,8 +1,8 @@
-**Stock Analysis Project**
+## Stock Analysis Project
 
 ---
 
-**Description:**
+### Description:
 
 The Stock Analysis project is designed to provide various functionalities for analyzing stock data. It includes methods to calculate the average stock price, find the maximum stock price, determine the occurrence count of a specific price, and compute the cumulative sum of stock prices.
 
