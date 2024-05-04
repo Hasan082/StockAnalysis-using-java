@@ -1,4 +1,4 @@
-## Stock Analysis Project
+## Stock Analysis Project using Java
 
 ---
 
